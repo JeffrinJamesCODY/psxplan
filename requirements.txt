@@ -2,7 +2,7 @@ fastapi==0.115.0
 uvicorn[standard]==0.32.0
 astroquery==0.4.7
 astropy==6.1.0
-matplotlib==3.9.0
 numpy==1.26.4
+pillow>=10.0
 requests==2.32.3
 cachetools==5.5.0
